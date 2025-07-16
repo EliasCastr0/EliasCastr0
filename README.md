@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c87aa968-468b-48b7-8471-cde17885a3c5" alt="Banner" width="1400" height="350" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGt2EK5XAIg5A/profile-displaybackgroundimage-shrink_350_1400/B4EZdglf8DH0Ag-/0/1749672133497?e=1758153600&v=beta&t=SQxMDgfPKhPbVMM2rwq-P8oQDQ-0qkMlkN6wBTQlTHg" alt="Banner" width="100%" />
 </p>
 
 ## Sobre mí
@@ -27,4 +27,4 @@
 ### 🌐 Redes sociales
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-castro-programador/)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/eliias.castro?igsh=MTNvNnJjdWt3OTZqdg==)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4)]()
