@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGt2EK5XAIg5A/profile-displaybackgroundimage-shrink_350_1400/B4EZdglf8DH0Ag-/0/1749672133497?e=1758153600&v=beta&t=SQxMDgfPKhPbVMM2rwq-P8oQDQ-0qkMlkN6wBTQlTHg" alt="Banner" width="100%" />
+  <img src=" https://media.licdn.com/dms/image/v2/D4E16AQFY5YsalTmILg/profile-displaybackgroundimage-shrink_350_1400/B4EZgjMxMuGwAY-/0/1752937208229?e=1755734400&v=beta&t=tTJLRtvMgdBKuSvHxjDDw-9fYm0WvD9Bans2-4PVAlo" alt="Banner" width="100%" />
+ 
 </p>
 
 ## Sobre mí
