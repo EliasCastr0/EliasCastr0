@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  <img src=" https://media.licdn.com/dms/image/v2/D4E16AQFY5YsalTmILg/profile-displaybackgroundimage-shrink_350_1400/B4EZgjMxMuGwAY-/0/1752937208229?e=1755734400&v=beta&t=tTJLRtvMgdBKuSvHxjDDw-9fYm0WvD9Bans2-4PVAlo" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/fced5347-0a5d-450b-a42a-a89495cb0cb2" 
+ alt="Banner" width="100%" />
  
 </p>
 
